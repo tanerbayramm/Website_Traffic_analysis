@@ -1,5 +1,3 @@
-# Website_Traffic_analysis
-
 # Website Traffic Analysis & Visualization
 
 ## Project Description
